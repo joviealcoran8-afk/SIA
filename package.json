@@ -1,0 +1,21 @@
+{
+  "name": "sia",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/joviealcoran8-afk/SIA#readme",
+  "bugs": {
+    "url": "https://github.com/joviealcoran8-afk/SIA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joviealcoran8-afk/SIA.git"
+  },
+  "type": "common.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
